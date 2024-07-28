@@ -38,7 +38,8 @@ go env -w GO111MODULE=off
 ### Visuals
 
 ![Web Server Architecture](https://raw.githubusercontent.com/KamoEllen/Go-Server/main/WebServerArchitecture.drawio.png)
-![Demo Gif](https://raw.githubusercontent.com/KamoEllen/Go-Server/main/Web-Server.gif)
+![Demo Gif](https://raw.githubusercontent.com/KamoEllen/Go-Server/main/Web%20Server.gif)
+
 
 
 ---
