@@ -9,4 +9,6 @@ Changing - go env -w GO111MODULE=auto
 to this - go env -w GO111MODULE=off
 
 ![Image](https://raw.githubusercontent.com/KamoEllen/Go-Server/main/WebServerArchitecture.drawio.png)
+![Video](https://raw.githubusercontent.com/KamoEllen/Go-Server/main/Web-Server.mp4)
+
 
