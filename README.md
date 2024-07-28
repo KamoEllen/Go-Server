@@ -7,3 +7,5 @@ why command solved err - It created a module
 Another way to solve er
 Changing - go env -w GO111MODULE=auto
 to this - go env -w GO111MODULE=off
+
+![Image] (https://github.com/KamoEllen/Go-Server/blob/main/WebServerArchitecture.drawio.png)
